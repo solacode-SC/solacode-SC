@@ -1,12 +1,10 @@
-# profile-set-up
-this's the my profile set up
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Solayman
 ================================================================================================================================
 
 Software Engineer Student | Backend Dev
 ---------------------------------------
 
-🚀 Continuous Learner | Backend Developer in the Making | Software Engineering Student at 1337 I’m deeply passionate about building and understanding the technologies shaping our future. Currently pursuing software engineering at 1337, I thrive in environments that push my limits and fuel my curiosity. My journey is centered around: 💻 Coding: Constantly refining my skills in Python, C/C++, and JavaScript through hands-on projects and collaborative work. 🤖 Artificial Intelligence: Exploring machine learning and neural networks to understand how intelligent systems work. 📐 Mathematics: Embracing mathematical foundations that power algorithms, graphics, and AI. 🧠 Newest Technologies: Actively keeping up with innovations in software, cloud computing, and dev tools. 🔧 Backend Development: Passionate about designing APIs, managing databases, and building secure, scalable systems. I believe in continuous improvement, collaborative learning, and using technology to solve meaningful problems. Whether it's contributing to open-source, working on side projects, or diving into complex systems, I’m always looking to grow.
+🚀 Passionate About Learning | 💻 Coding Everyday | 🤖 Exploring AI 📐 Deepening Math Skills | 🔧 Curious About New Tech 🎓 Software Engineering Student @ 1337 | 🛠️ Future Backend Dev
 
 * 🌍  I'm based in Morocco
 * ✉️  You can contact me at [elmouden00den@gmail.com](mailto:elmouden00den@gmail.com)
