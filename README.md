@@ -145,14 +145,14 @@ fun_facts:
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 📊 &nbsp;GitHub Stats
-
+<!-- 
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=solacode-SC&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&count_private=true" />
 &nbsp;
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=solacode-SC&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" />
 
-</div>
+</div> -->
 
 <div align="center">
 
@@ -209,28 +209,6 @@ fun_facts:
 🎨  Exploring AI generative UI & anime-aesthetic design systems
 🌐  Building products that serve MENA & Arabic-speaking markets
 ```
-
-<br/>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    CONTRIBUTION SNAKE                         -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 🐍 &nbsp;Contribution Graph
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/solacode-SC/solacode-SC/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/solacode-SC/solacode-SC/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/solacode-SC/solacode-SC/output/github-contribution-grid-snake-dark.svg" />
-</picture>
-
-> To enable the snake animation, add [this GitHub Action](https://github.com/Platane/snk) to your profile repo.
-
-</div>
 
 <br/>
 
