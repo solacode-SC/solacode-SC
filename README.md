@@ -32,7 +32,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
 [![Portfolio](https://img.shields.io/badge/NashirTech-Portfolio-f97316?style=for-the-badge&logo=firefox&logoColor=white)](https://YOUR_PORTFOLIO_URL)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/solacode-SC/solacode-SC)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/YOUR_DISCORD)
 [![X / Twitter](https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/YOUR_HANDLE)
@@ -148,15 +148,15 @@ fun_facts:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=solacode-SC&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&count_private=true" />
 &nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=solacode-SC&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=f97316&currStreakLabel=a78bfa" width="60%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=solacode-SC&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=f97316&currStreakLabel=a78bfa" width="60%" />
 
 </div>
 
@@ -164,7 +164,7 @@ fun_facts:
 
 <div align="center">
 
-[![Solayman's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=a78bfa&line=7c3aed&point=f97316&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Solayman's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=solacode-SC&bg_color=0d1117&color=a78bfa&line=7c3aed&point=f97316&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -182,7 +182,7 @@ fun_facts:
 
 | 🏗️ Project | 📝 Description | 🛠️ Stack | 🔗 Links |
 |:---:|:---|:---:|:---:|
-| **Freelancer CRM** | Full-featured CRM for freelancers with AI chatbot, live DB context via DeepSeek API, SSE streaming, Prometheus + Grafana monitoring, and OAuth integration | `NestJS` `React` `PostgreSQL` `Prisma` `Docker` `Grafana` | [Repo](https://github.com/YOUR_USERNAME/freelancer-crm) |
+| **Freelancer CRM** | Full-featured CRM for freelancers with AI chatbot, live DB context via DeepSeek API, SSE streaming, Prometheus + Grafana monitoring, and OAuth integration | `NestJS` `React` `PostgreSQL` `Prisma` `Docker` `Grafana` | [Repo](https://github.com/solacode-SC/freelancer-crm) |
 | **CIH-DOUAR-AGENT** | Fintech B2B2C platform bringing banking to rural Morocco via certified local agents. Built for UM6P Hackathon 2025 | `React PWA` `NestJS` `PostgreSQL` `SMS OTP` | [Demo](https://YOUR_DEMO_URL) |
 | **NashirTech** | Bilingual Arabic/English developer brand portfolio with RTL switching, dark/light mode, watercolor ink aesthetic | `HTML` `CSS` `JS` | [Live](https://YOUR_NASHIRTECH_URL) |
 | **solaJobs** | Remote job board targeting Arabic-speaking developers — with AI chatbot visibility and SEO strategy | `Django` `PostgreSQL` `Docker` | [Live](https://YOUR_SOLAJOBS_URL) |
@@ -223,9 +223,9 @@ fun_facts:
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/solacode-SC/solacode-SC/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/solacode-SC/solacode-SC/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/solacode-SC/solacode-SC/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
 > To enable the snake animation, add [this GitHub Action](https://github.com/Platane/snk) to your profile repo.
@@ -266,9 +266,9 @@ fun_facts:
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=solacode-SC&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)
 &nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&color=a78bfa&logo=github&label=FOLLOWERS)](https://github.com/YOUR_USERNAME)
+[![GitHub followers](https://img.shields.io/github/followers/solacode-SC?style=for-the-badge&color=a78bfa&logo=github&label=FOLLOWERS)](https://github.com/solacode-SC/solacode-SC)
 
 </div>
 
@@ -290,7 +290,7 @@ fun_facts:
 ════════════════════════════════════════════
   CUSTOMIZATION CHECKLIST
 ════════════════════════════════════════════
-  Replace all YOUR_USERNAME with your GitHub handle
+  Replace all solacode-SC with your GitHub handle
   Replace all YOUR_* links with real URLs
   Update project table rows as you ship new things
   Enable the snake GitHub Action for contribution graph
