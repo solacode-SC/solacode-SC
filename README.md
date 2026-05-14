@@ -175,9 +175,6 @@ learning:
 | 🏗️ Project | 📝 Description | 🛠️ Stack | 🔗 Links |
 |:---:|:---|:---:|:---:|
 | **Freelancer CRM** | Full-featured CRM for freelancers with AI chatbot, live DB context via DeepSeek API, SSE streaming, Prometheus + Grafana monitoring, and OAuth integration | `NestJS` `React` `PostgreSQL` `Prisma` `Docker` `Grafana` | [Repo](https://github.com/solacode-SC/freelancer-crm) |
-| **CIH-DOUAR-AGENT** | Fintech B2B2C platform bringing banking to rural Morocco via certified local agents. Built for UM6P Hackathon 2025 | `React PWA` `NestJS` `PostgreSQL` `SMS OTP` | [Demo](https://YOUR_DEMO_URL) |
-| **NashirTech** | Bilingual Arabic/English developer brand portfolio with RTL switching, dark/light mode, watercolor ink aesthetic | `HTML` `CSS` `JS` | [Live](https://YOUR_NASHIRTECH_URL) |
-| **solaJobs** | Remote job board targeting Arabic-speaking developers — with AI chatbot visibility and SEO strategy | `Django` `PostgreSQL` `Docker` | [Live](https://YOUR_SOLAJOBS_URL) |
 | **Chemify** | Interactive chemistry platform with Periodic Table Explorer, Reaction Studio, and 10 chemistry tools | `Vanilla HTML/CSS/JS` | [Demo](https://YOUR_CHEMIFY_URL) |
 
 </div>
@@ -193,13 +190,10 @@ learning:
 ## 🎯 &nbsp;Current Focus
 
 ```
-🔧  Shipping NashirTech v2 — bilingual dev brand with full case studies
-🌍  Growing solaJobs SEO & AI-powered job matching features
 ☁️  Deepening cloud infra knowledge (AWS, K8s, Terraform)
 🤖  Integrating LLM APIs into production SaaS products
 📐  Improving system design & SRE practices
 🎨  Exploring AI generative UI & anime-aesthetic design systems
-🌐  Building products that serve MENA & Arabic-speaking markets
 ```
 
 <br/>
