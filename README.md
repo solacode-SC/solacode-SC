@@ -227,24 +227,6 @@ learning:
 <br/>
 
 ---
-<!-- 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    PROFILE VIEWS                              -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 👁️ &nbsp;Profile Views
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=solacode-SC&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)
-&nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/solacode-SC?style=for-the-badge&color=a78bfa&logo=github&label=FOLLOWERS)](https://github.com/solacode-SC/solacode-SC)
-
-</div>
-
-<br/> -->
-
----
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                         FOOTER                                -->
