@@ -51,14 +51,11 @@
 
 ```yaml
 name:       Solayman El Mouden
-location:   Casablanca, Morocco 🇲🇦
 school:     1337 School — 42 Network
-brand:      NashirTech (ناشر تك)
 
 focus:
   - DevOps / SRE engineering
   - Full-stack web development
-  - Fintech & social impact platforms
   - Arabic-language digital products
 
 current_work:
@@ -71,12 +68,6 @@ learning:
   - Kubernetes & advanced container orchestration
   - LLM API integration & AI product design
 
-fun_facts:
-  - Competed in UM6P Hackathon 2025 (fintech × rural Morocco)
-  - Built a full CRM with Prometheus + Grafana monitoring from scratch
-  - Equally comfortable in C system programming and React UIs
-  - Obsessed with pixel art, anime aesthetics & generative design
-```
 
 <br/>
 
@@ -235,7 +226,7 @@ fun_facts:
 <br/>
 
 ---
-
+<!-- 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                    PROFILE VIEWS                              -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
@@ -250,7 +241,7 @@ fun_facts:
 
 </div>
 
-<br/>
+<br/> -->
 
 ---
 
