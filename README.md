@@ -181,46 +181,7 @@ learning:
 
 <br/>
 
----
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                     CURRENT FOCUS                             -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 🎯 &nbsp;Current Focus
-
-```
-☁️  Deepening cloud infra knowledge (AWS, K8s, Terraform)
-🤖  Integrating LLM APIs into production SaaS products
-📐  Improving system design & SRE practices
-🎨  Exploring AI generative UI & anime-aesthetic design systems
-```
-
-<br/>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                       DEV QUOTE                               -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 💬 &nbsp;Dev Motto
-
-<div align="center">
-
-> *"The best infrastructure is the one nobody thinks about — because it just works."*
->
-> — Solayman El Mouden
-
-<br/>
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
-<br/>
-
----
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                         FOOTER                                -->
