@@ -1,207 +1,55 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                        HERO SECTION                           -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg"><img alt="Solayman El Mouden, Software Engineer. AI, Math, Newest Technologies. Lily-pond painting with a frog on a pad." src="./assets/header-dark.svg" width="100%"></picture>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Solayman%20El%20Mouden&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=DevOps%20%E2%80%A2%20Full-Stack%20Engineer%20%E2%80%A2%20Builder&descAlignY=58&descColor=a78bfa&animation=fadeIn" width="100%" />
+<a href="https://github.com/solacode-SC"><img src="https://img.shields.io/badge/GitHub-solacode--SC?style=for-the-badge&logo=github&logoColor=white&labelColor=12322c&color=2f6f4f" alt="GitHub"></a>
+<a href="https://www.linkedin.com/in/solayman-elmouden/"><img src="https://img.shields.io/badge/LinkedIn-connect?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=12322c&color=2d7f8f" alt="LinkedIn"></a>
+<a href="https://solaymanbuilds.com"><img src="https://img.shields.io/badge/Portfolio-solaymanbuilds.com-7a8f1f?style=for-the-badge&logo=safari&logoColor=white&labelColor=12322c" alt="Portfolio"></a>
 
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&width=700&lines=Architecting+scalable+systems+from+the+ground+up;Bridging+DevOps+%26+full-stack+engineering;Building+products+for+Arabic-speaking+markets;Turning+ideas+into+shipped+software)](https://git.io/typing-svg)
-
-<br/>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/1337%20School-%2342%20Network-blueviolet?style=for-the-badge&logo=42&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/NashirTech-ناشر%20تك-orange?style=for-the-badge" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Open%20to%20Work-Remote-22c55e?style=for-the-badge&logo=remotework&logoColor=white" />
-</p>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/divider-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/divider-light.svg"><img alt="" src="./assets/divider-dark.svg" width="100%"></picture>
 
 </div>
 
----
+<div align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/about-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/about-light.svg"><img alt="About" src="./assets/about-dark.svg" width="100%"></picture></div>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                      SOCIAL LINKS                             -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+I’m Solayman El Mouden, a software engineer focused on systems, web technologies, artificial intelligence and mathematics.
+
+I enjoy understanding how things work underneath the abstraction and turning that knowledge into useful software.
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/solayman-elmouden/)
-[![Portfolio](https://img.shields.io/badge/SolaymanTech-Portfolio-f97316?style=for-the-badge&logo=firefox&logoColor=white)](https://www.solaymantech.me/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/solacode-SC/solacode-SC)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/YOUR_DISCORD)
-[![X / Twitter](https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/solacode_SC)
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/approach-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/approach-light.svg"><img alt="" src="./assets/approach-dark.svg" width="100%"></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/divider-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/divider-light.svg"><img alt="" src="./assets/divider-dark.svg" width="100%"></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/skills-light.svg"><img alt="Technologies" src="./assets/skills-dark.svg" width="100%"></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills-grid-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/skills-grid-light.svg"><img alt="" src="./assets/skills-grid-dark.svg" width="100%"></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/divider-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/divider-light.svg"><img alt="" src="./assets/divider-dark.svg" width="100%"></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/projects-title-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/projects-title-light.svg"><img alt="Selected Projects" src="./assets/projects-title-dark.svg" width="100%"></picture>
 
 </div>
 
-<br/>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                        ABOUT ME                               -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 🧠 &nbsp;About Me
-
-```yaml
-name:       Solayman El Mouden
-school:     1337 School — 42 Network
-
-focus:
-  - DevOps / SRE engineering
-  - Full-stack web development
-  - Arabic-language digital products
-
-current_work:
-  - Building NashirTech — a bilingual dev brand for MENA markets
-  - Developing solaJobs — a remote job board for Arabic speakers
-  - Exploring AI-powered product monetization
-
-learning:
-  - Cloud infrastructure (AWS / GCP)
-  - Kubernetes & advanced container orchestration
-  - LLM API integration & AI product design
-
-```
-
-<br/>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                        TECH STACK                             -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 🛠️ &nbsp;Tech Stack
-
-<details open>
-<summary><b>⚡ Languages</b></summary>
-<br/>
-
-[![Languages](https://skillicons.dev/icons?i=c,cpp,python,js,ts,bash&theme=dark)](https://skillicons.dev)
-
-</details>
-
-<details open>
-<summary><b>🎨 Frontend</b></summary>
-<br/>
-
-[![Frontend](https://skillicons.dev/icons?i=react,vite,html,css,tailwind&theme=dark)](https://skillicons.dev)
-
-</details>
-
-<details open>
-<summary><b>⚙️ Backend</b></summary>
-<br/>
-
-[![Backend](https://skillicons.dev/icons?i=nestjs,django,nodejs,nginx&theme=dark)](https://skillicons.dev)
-
-</details>
-
-<details open>
-<summary><b>🗄️ Database & ORM</b></summary>
-<br/>
-
-[![Database](https://skillicons.dev/icons?i=postgres,prisma,redis&theme=dark)](https://skillicons.dev)
-
-</details>
-
-<details open>
-<summary><b>🚀 DevOps & Infrastructure</b></summary>
-<br/>
-
-[![DevOps](https://skillicons.dev/icons?i=docker,githubactions,linux,prometheus,grafana&theme=dark)](https://skillicons.dev)
-
-</details>
-
-<details>
-<summary><b>🧰 Tools & Platforms</b></summary>
-<br/>
-
-[![Tools](https://skillicons.dev/icons?i=git,github,vscode,figma,postman&theme=dark)](https://skillicons.dev)
-
-</details>
-
-<br/>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                      GITHUB STATS                             -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 📊 &nbsp;GitHub Stats
-<!-- 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=solacode-SC&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&count_private=true" />
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=solacode-SC&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" />
-
-</div> -->
+<table>
+<tr>
+<td width="50%"><a href="https://github.com/solacode-SC/lazyequation"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/card-lazyequation-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/card-lazyequation-light.svg"><img alt="Project 01, LazyEquation: interactive mathematics and physics visualization platform. React, TS, Fastify, PostgreSQL." src="./assets/card-lazyequation-dark.svg" width="100%"></picture></a></td>
+<td width="50%"><a href="https://github.com/solacode-SC/leetresume"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/card-leetresume-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/card-leetresume-light.svg"><img alt="Project 02, LeetResume: AI-powered resume builder and optimizer. Next.js, Prisma, PostgreSQL." src="./assets/card-leetresume-dark.svg" width="100%"></picture></a></td>
+</tr>
+<tr>
+<td width="50%"><a href="https://github.com/solacode-SC/libora"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/card-libora-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/card-libora-light.svg"><img alt="Project 03, Libora: Flutter PDF reader with a modern reading experience. Flutter, Dart, Riverpod." src="./assets/card-libora-dark.svg" width="100%"></picture></a></td>
+<td width="50%"><a href="https://github.com/solacode-SC/webserv"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/card-webserv-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/card-webserv-light.svg"><img alt="Project 04, Webserv: C++98 HTTP server built from scratch. C++98, Networking." src="./assets/card-webserv-dark.svg" width="100%"></picture></a></td>
+</tr>
+<tr>
+<!-- <td colspan="2"><a href="https://github.com/solacode-SC/solajobs-v2"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/card-solajobs-v2-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/card-solajobs-v2-light.svg"><img alt="Project 05, solaJobs v2: job platform project." src="./assets/card-solajobs-v2-dark.svg" width="100%"></picture></a></td> -->
+</tr>
+</table>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=solacode-SC&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=f97316&currStreakLabel=a78bfa" width="60%" />
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/footer-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/footer-light.svg"><img alt="Build, Explore, Understand. Software Engineering, Systems, AI, Mathematics." src="./assets/footer-dark.svg" width="100%"></picture>
+
+[solaymanbuilds.com](https://solaymanbuilds.com) · [LinkedIn](https://www.linkedin.com/in/solayman-elmouden/)
 
 </div>
-
-<br/>
-
-<div align="center">
-
-[![Solayman's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=solacode-SC&bg_color=0d1117&color=a78bfa&line=7c3aed&point=f97316&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
-<br/>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    FEATURED PROJECTS                          -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 🚀 &nbsp;Featured Projects
-
-<div align="center">
-
-| 🏗️ Project | 📝 Description | 🛠️ Stack | 🔗 Links |
-|:---:|:---|:---:|:---:|
-| **Freelancer CRM** | Full-featured CRM for freelancers with AI chatbot, live DB context via DeepSeek API, SSE streaming, Prometheus + Grafana monitoring, and OAuth integration | `NestJS` `React` `PostgreSQL` `Prisma` `Docker` `Grafana` | [Repo](https://github.com/solacode-SC/freelancer-crm) |
-| **Chemify** | Interactive chemistry platform with Periodic Table Explorer, Reaction Studio, and 10 chemistry tools | `Vanilla HTML/CSS/JS` | [Demo](https://YOUR_CHEMIFY_URL) |
-
-</div>
-
-<br/>
-
-
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                         FOOTER                                -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&text=Thanks%20for%20visiting%20%E2%80%94%20let%27s%20build%20something%20great&fontSize=16&fontColor=a78bfa&fontAlignY=65" width="100%" />
-
-</div>
-
-<!--
-════════════════════════════════════════════
-  CUSTOMIZATION CHECKLIST
-════════════════════════════════════════════
-  Replace all solacode-SC with your GitHub handle
-  Replace all YOUR_* links with real URLs
-  Update project table rows as you ship new things
-  Enable the snake GitHub Action for contribution graph
-  Optionally add Wakatime stats widget
-  Optionally add Spotify Now Playing widget
-════════════════════════════════════════════
--->
