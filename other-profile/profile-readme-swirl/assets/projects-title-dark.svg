@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 64" width="900" height="64" font-family="'JetBrains Mono','SF Mono',SFMono-Regular,Consolas,Menlo,monospace"><style>
+.spin{transform-box:fill-box;transform-origin:center;animation:spin 70s linear infinite}
+.spin.r{animation-direction:reverse;animation-duration:95s}
+@keyframes spin{to{transform:rotate(360deg)}}
+.dots{stroke-dasharray:.1 34;stroke-linecap:round;animation:run 18s linear infinite}
+@keyframes run{to{stroke-dashoffset:-341}}
+.pulse{animation:pulse 2.6s ease-in-out infinite}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:.3}}
+@media (prefers-reduced-motion:reduce){.spin,.dots,.pulse{animation:none}}
+</style><defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#041114"/><stop offset="1" stop-color="#0a2126"/></linearGradient>
+<linearGradient id="cardbg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#08191d"/><stop offset="1" stop-color="#0c2429"/></linearGradient>
+<linearGradient id="side" x1="0" x2="1"><stop offset="0" stop-color="#041114"/><stop offset=".35" stop-color="#041114" stop-opacity=".96"/><stop offset="1" stop-color="#041114" stop-opacity="0"/></linearGradient>
+</defs><rect width="900" height="64" fill="url(#bg)"/><path d="M61.4 36L61.4 36.3L61.4 36.7L61.3 37.1L61.1 37.4L60.8 37.7L60.4 38L60 38.1L59.5 38.2L59 38.1L58.4 37.9L58 37.6L57.5 37.2L57.2 36.6L57.1 36L57 35.3L57.2 34.6L57.5 33.9L57.9 33.3L58.5 32.8L59.2 32.4L60.1 32.3L60.9 32.2L61.8 32.4L62.6 32.8L63.3 33.4L63.9 34.2L64.3 35.1L64.5 36.1L64.5 37.1L64.3 38.2L63.8 39.1L63 40L62.1 40.7L61 41.1L59.9 41.3L58.7 41.3L57.5 41L56.3 40.4L55.4 39.5L54.6 38.4L54.1 37.2L53.9 35.8L53.9 34.4L54.3 33.1L55.1 31.8L56 30.7L57.3 29.9L58.7 29.3L60.2 29.1L61.8 29.2L63.3 29.6L64.7 30.5L65.9 31.6L66.9 33L67.5 34.6L67.7 36.3L67.6 38L67 39.7L66.1 41.3L64.9 42.6L63.3 43.6L61.5 44.3L59.6 44.5L57.7 44.4L55.9 43.7L54.2 42.7L52.7 41.3" fill="none" stroke="#f0d672" stroke-width="1.5"/><text x="82" y="40" font-size="12" letter-spacing="2.2" fill="#8db2ac">04 /</text><text x="126" y="40" font-size="12" font-weight="700" letter-spacing="2.2" fill="#ecf4ef">SELECTED LIVE PROJECTS</text><rect x="726" y="21" width="134" height="26" rx="4" fill="#08191d" stroke="#7fc9bf" stroke-opacity=".8"/><circle class="pulse" cx="742" cy="34" r="3.4" fill="#5de6a4"/><text x="753" y="37.8" font-size="10" font-weight="700" letter-spacing="1" fill="#ecf4ef">6 DEPLOYED APPS</text><path d="M.5 0V64M899.5 0V64" stroke="#1d4a50"/></svg>

@@ -1,0 +1,59 @@
+name: Rotate Profile README
+
+on:
+  schedule:
+    # Auto-rotate based on interval in profile-data.json
+    - cron: '0 */12 * * *'
+  workflow_dispatch:
+    inputs:
+      theme:
+        description: 'Specific theme to activate (leave empty for next in cycle)'
+        required: false
+        default: ''
+      force:
+        description: 'Force rotation even if not scheduled'
+        type: boolean
+        default: true
+  push:
+    paths:
+      - 'profile-data.json'
+
+permissions:
+  contents: write
+
+jobs:
+  rotate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Rotate Profile README
+        run: |
+          if [ -n "${{ github.event.inputs.theme }}" ]; then
+            python rotate.py --theme "${{ github.event.inputs.theme }}"
+          elif [ "${{ github.event_name }}" = "push" ]; then
+            python rotate.py --sync
+          else
+            python rotate.py --next
+          fi
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            CURRENT_THEME=$(python -c "import json; print(json.load(open('profile-data.json'))['rotation']['current_theme'])")
+            git commit -m "Auto-rotate README to theme: ${CURRENT_THEME} [skip ci]"
+            git push
+          fi

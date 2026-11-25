@@ -1,0 +1,375 @@
+{
+  "$comment": "Central shared data file for Solayman El Mouden (solacode-SC) profile rotation system. Modify this file to update any link, bio, skill, project, or rotation schedule.",
+  "rotation": {
+    "interval_hours": 12,
+    "cron": "0 */12 * * *",
+    "mode": "sequential",
+    "current_theme": "solacode-lilypond",
+    "current_index": 0,
+    "last_rotated": "2026-11-25T17:34:42.964862+00:00",
+    "collection": [
+      "solacode-lilypond",
+      "profile-readme-garden",
+      "profile-readme-inkscroll",
+      "profile-readme-swirl",
+      "solacode-lotus-readme",
+      "solacode-readme-andalus",
+      "solacode-readme-canopy",
+      "solayman-tree-readme"
+    ],
+    "theme_metadata": {
+      "solacode-lilypond": {
+        "name": "Lily Pond (Monet Impressionism)",
+        "description": "Lily-pond painting with frog on pad, ripple waves, approach grid, skills grid, and 6 bespoke live project cards.",
+        "dark_bg": "#0a1f26",
+        "light_bg": "#f5f4e1"
+      },
+      "profile-readme-garden": {
+        "name": "Autumn Garden",
+        "description": "Autumn garden aesthetic with falling leaves animation, glowing eyes, lantern flicker, and 3x2 live project cards.",
+        "dark_bg": "#17120d",
+        "light_bg": "#f6eedc"
+      },
+      "profile-readme-inkscroll": {
+        "name": "Japanese Ink Scroll",
+        "description": "Hand-painted ink scroll aesthetic with minimalist calligraphy, vermilion seals, brush strokes, and 3x2 album-leaf project cards.",
+        "dark_bg": "#181d28",
+        "light_bg": "#f3e9cd"
+      },
+      "profile-readme-swirl": {
+        "name": "Flow Field & Swirl",
+        "description": "Multi-vortex streamlines, Archimedean rose spirals, sine contour bands, and bespoke algorithmic project motifs.",
+        "dark_bg": "#041114",
+        "light_bg": "#fbf7ea"
+      },
+      "solacode-lotus-readme": {
+        "name": "Kintsugi Lotus Pond",
+        "description": "Kintsugi gold seams, swimming koi artwork, concentric ripple rings, and 3x2 gold-framed live project cards.",
+        "dark_bg": "#06151b",
+        "light_bg": "#f1e3c6"
+      },
+      "solacode-readme-andalus": {
+        "name": "Andalusian Heritage",
+        "description": "Alhambra horseshoe arches, eight-point zellige star friezes, muqarnas, and 3x2 architectural project cards.",
+        "dark_bg": "#0d1b19",
+        "light_bg": "#f5ecd6"
+      },
+      "solacode-readme-canopy": {
+        "name": "Canopy Spiral",
+        "description": "Organic tree canopy whose leaves swirl into golden phyllotaxis spirals, paired with 3x2 botanical project medallions.",
+        "dark_bg": "#0c1810",
+        "light_bg": "#f4f6e0"
+      },
+      "solayman-tree-readme": {
+        "name": "Topographic Tree",
+        "description": "Organic topographic contours, annular growth rings, architectural pillars, and 2x3 clickable live project cards.",
+        "dark_bg": "#09111c",
+        "light_bg": "#f5f8fc"
+      }
+    }
+  },
+  "profile": {
+    "name": "Solayman El Mouden",
+    "first_name": "Solayman",
+    "last_name": "El Mouden",
+    "handle": "solacode-SC",
+    "role": "Software Engineer",
+    "headline": "Software Engineer. AI, Math, Newest Technologies.",
+    "tagline": "Building systems, web applications, developer tools and intelligent software for a better tomorrow.",
+    "tagline_lines": [
+      "Building systems, web applications,",
+      "developer tools and intelligent",
+      "software for a better tomorrow."
+    ],
+    "about": [
+      "I’m Solayman El Mouden, a software engineer focused on systems, web technologies, artificial intelligence and mathematics.",
+      "I enjoy understanding how things work underneath the abstraction and turning that knowledge into useful software."
+    ],
+    "facts": "Software engineering student at 1337 School (UM6P, 42 Network); earlier CPGE (Mathematics and Physics track). Based in Morocco.",
+    "focus": "AI Fullstack, Backend / DevOps",
+    "status": "Open to opportunities",
+    "location": "Morocco"
+  },
+  "links": {
+    "github": "https://github.com/solacode-SC",
+    "linkedin": "https://www.linkedin.com/in/solayman-elmouden/",
+    "portfolio": "https://solaymanbuilds.com",
+    "portfolio_display": "solaymanbuilds.com",
+    "email": "synelden18@gmail.com"
+  },
+  "pillars": [
+    "AI",
+    "Math",
+    "Newest Technologies"
+  ],
+  "approach": [
+    {
+      "pillar": "Systems",
+      "detail": "C / C++",
+      "category": "lang"
+    },
+    {
+      "pillar": "Intelligence",
+      "detail": "Python / AI",
+      "category": "fw"
+    },
+    {
+      "pillar": "Web",
+      "detail": "TypeScript / React",
+      "category": "db"
+    },
+    {
+      "pillar": "Infrastructure",
+      "detail": "Docker / Linux",
+      "category": "tool"
+    },
+    {
+      "pillar": "Exploration",
+      "detail": "Mathematics / New Technologies",
+      "category": "lang"
+    }
+  ],
+  "skills": [
+    {
+      "name": "C / C++",
+      "short": "C++",
+      "category": "language",
+      "badge": "lang"
+    },
+    {
+      "name": "Python",
+      "short": "Py",
+      "category": "language",
+      "badge": "lang"
+    },
+    {
+      "name": "JavaScript",
+      "short": "JS",
+      "category": "language",
+      "badge": "lang"
+    },
+    {
+      "name": "TypeScript",
+      "short": "TS",
+      "category": "language",
+      "badge": "lang"
+    },
+    {
+      "name": "React",
+      "short": "Rx",
+      "category": "library",
+      "badge": "fw"
+    },
+    {
+      "name": "Next.js",
+      "short": "N",
+      "category": "framework",
+      "badge": "fw"
+    },
+    {
+      "name": "Django",
+      "short": "dj",
+      "category": "framework",
+      "badge": "fw"
+    },
+    {
+      "name": "FastAPI",
+      "short": "FA",
+      "category": "framework",
+      "badge": "fw"
+    },
+    {
+      "name": "PostgreSQL",
+      "short": "Pg",
+      "category": "database",
+      "badge": "db"
+    },
+    {
+      "name": "Docker",
+      "short": "Dk",
+      "category": "containers",
+      "badge": "tool"
+    },
+    {
+      "name": "Linux",
+      "short": "Lx",
+      "category": "operating system",
+      "badge": "tool"
+    },
+    {
+      "name": "Git",
+      "short": "Git",
+      "category": "version control",
+      "badge": "tool"
+    }
+  ],
+  "projects": [
+    {
+      "id": "leetresume",
+      "number": "01",
+      "title": "LeetResume",
+      "badge": "AI SaaS",
+      "subtitle": "AI-Powered LaTeX Resume Builder & XeLaTeX Engine",
+      "repo_slug": "leetresume",
+      "repo_url": "https://leetresume.solaymanbuilds.com",
+      "live_url": "https://leetresume.solaymanbuilds.com",
+      "display_url": "leetresume.solaymanbuilds.com",
+      "description": "AI-powered LaTeX resume builder with isolated XeLaTeX PDF generation and DeepSeek AI refinement.",
+      "description_lines": [
+        "AI-powered LaTeX resume builder",
+        "with XeLaTeX & DeepSeek AI."
+      ],
+      "tags": [
+        "Next.js",
+        "PostgreSQL",
+        "XeLaTeX",
+        "DeepSeek"
+      ],
+      "card_tags": [
+        "Next.js",
+        "XeLaTeX",
+        "DeepSeek"
+      ],
+      "featured": true
+    },
+    {
+      "id": "fastdl",
+      "number": "02",
+      "title": "FastDL",
+      "badge": "Live Platform",
+      "subtitle": "Stateless High-Speed Media Extraction Engine",
+      "repo_slug": "fastdl",
+      "repo_url": "https://fastdownloading.solaymanbuilds.com",
+      "live_url": "https://fastdownloading.solaymanbuilds.com",
+      "display_url": "fastdownloading.solaymanbuilds.com",
+      "description": "Stateless high-speed social media video downloader powered by FastAPI and yt-dlp with zero server storage or buffering.",
+      "description_lines": [
+        "Stateless high-speed video engine",
+        "with FastAPI, yt-dlp & zero storage."
+      ],
+      "tags": [
+        "Next.js",
+        "FastAPI",
+        "yt-dlp",
+        "Docker"
+      ],
+      "card_tags": [
+        "FastAPI",
+        "yt-dlp",
+        "Docker"
+      ],
+      "featured": true
+    },
+    {
+      "id": "lazy-equation",
+      "number": "03",
+      "title": "Lazy Equation",
+      "badge": "Interactive",
+      "subtitle": "Digital Museum & Real-Time Math/Physics Sandbox",
+      "repo_slug": "lazy-equation",
+      "repo_url": "https://lazyequation.solaymanbuilds.com",
+      "live_url": "https://lazyequation.solaymanbuilds.com",
+      "display_url": "lazyequation.solaymanbuilds.com",
+      "description": "Interactive digital museum and real-time canvas sandbox for exploring and visualizing math and physics formulas.",
+      "description_lines": [
+        "Interactive digital museum for",
+        "math & physics canvas exploration."
+      ],
+      "tags": [
+        "React",
+        "TypeScript",
+        "Fastify",
+        "Canvas"
+      ],
+      "card_tags": [
+        "React",
+        "TypeScript",
+        "Fastify"
+      ],
+      "featured": true
+    },
+    {
+      "id": "xstudio",
+      "number": "04",
+      "title": "Xstudio",
+      "badge": "PDF Toolkit",
+      "subtitle": "Local-First Privacy PDF Studio (9 Utilities)",
+      "repo_slug": "xstudio",
+      "repo_url": "https://xstudio.solaymanbuilds.com",
+      "live_url": "https://xstudio.solaymanbuilds.com",
+      "display_url": "xstudio.solaymanbuilds.com",
+      "description": "Local-first, privacy-focused PDF toolkit featuring 9 utilities (split, merge, compress, rotate, PDF↔images, PDF-to-DOCX) with zero data retention.",
+      "description_lines": [
+        "Privacy-first PDF studio with 9",
+        "local utilities & zero retention."
+      ],
+      "tags": [
+        "Next.js",
+        "FastAPI",
+        "PyMuPDF",
+        "Docker"
+      ],
+      "card_tags": [
+        "Next.js",
+        "FastAPI",
+        "PyMuPDF"
+      ],
+      "featured": true
+    },
+    {
+      "id": "md-converter",
+      "number": "05",
+      "title": "MD Converter",
+      "badge": "AI Utility",
+      "subtitle": "Stateless Document-to-Markdown Engine for AI",
+      "repo_slug": "md-converter",
+      "repo_url": "https://mdconverter.solaymanbuilds.com",
+      "live_url": "https://mdconverter.solaymanbuilds.com",
+      "display_url": "mdconverter.solaymanbuilds.com",
+      "description": "Stateless document-to-Markdown converter turning PDF, DOCX, and PPTX files into clean Markdown for AI workflows.",
+      "description_lines": [
+        "Turns PDF, DOCX & PPTX into clean",
+        "Markdown built for AI workflows."
+      ],
+      "tags": [
+        "Next.js",
+        "FastAPI",
+        "Tailwind",
+        "Docker"
+      ],
+      "card_tags": [
+        "Next.js",
+        "FastAPI",
+        "Docker"
+      ],
+      "featured": true
+    },
+    {
+      "id": "chemify",
+      "number": "06",
+      "title": "Chemify",
+      "badge": "Science Lab",
+      "subtitle": "Zero-Dependency Periodic Table & Reaction Studio",
+      "repo_slug": "chemify",
+      "repo_url": "https://chemify-pi.vercel.app/",
+      "live_url": "https://chemify-pi.vercel.app/",
+      "display_url": "chemify-pi.vercel.app",
+      "description": "Zero-dependency interactive chemistry platform with a periodic table explorer, stoichiometry reaction studio, and calculators.",
+      "description_lines": [
+        "Zero-dependency periodic table,",
+        "stoichiometry studio & calculators."
+      ],
+      "tags": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "card_tags": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "featured": true
+    }
+  ]
+}
