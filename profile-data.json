@@ -4,9 +4,9 @@
     "interval_hours": 12,
     "cron": "0 */12 * * *",
     "mode": "sequential",
-    "current_theme": "profile-readme-garden",
-    "current_index": 1,
-    "last_rotated": "2026-11-26T06:46:52.406114+00:00",
+    "current_theme": "profile-readme-inkscroll",
+    "current_index": 2,
+    "last_rotated": "2026-11-26T20:54:41.742793+00:00",
     "collection": [
       "solacode-lilypond",
       "profile-readme-garden",
