@@ -1,1 +1,37 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="150" height="40" viewBox="0 0 150 40" role="img" aria-label="LinkedIn"><title>LinkedIn</title><desc>Button linking to LinkedIn</desc><defs></defs><path d="M14,3 H136 L147,20 L136,37 H14 L3,20 Z" fill="#B04A32" stroke="#CDA652" stroke-width="1.6"/><polygon points="28.0,12.0 29.9,15.4 33.7,14.3 32.6,18.1 36.0,20.0 32.6,21.9 33.7,25.7 29.9,24.6 28.0,28.0 26.1,24.6 22.3,25.7 23.4,21.9 20.0,20.0 23.4,18.1 22.3,14.3 26.1,15.4" fill="#FFF6E0" opacity="1"/><text x="89" y="25.5" text-anchor="middle" font-family="Georgia,'Iowan Old Style','Palatino Linotype','DejaVu Serif',serif" font-size="15" letter-spacing=".8" fill="#FFF6E0">LinkedIn</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="160" height="44" viewBox="0 0 160 44" role="img" aria-label="LinkedIn"><title>LinkedIn</title><desc>Andalusian cartouche button linking to LinkedIn</desc><defs><linearGradient id="bg-dark" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#A8422B"/><stop offset="1" stop-color="#7E2B19"/></linearGradient><linearGradient id="gd-dark" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FAF0C4"/><stop offset="0.5" stop-color="#D8AE52"/><stop offset="1" stop-color="#8F671F"/></linearGradient><linearGradient id="bsheen" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#FFF5D6" stop-opacity="0"/><stop offset="0.5" stop-color="#FFF5D6" stop-opacity=".35"/><stop offset="1" stop-color="#FFF5D6" stop-opacity="0"/></linearGradient><clipPath id="bclip"><path d="M18,3 H142 L156,22 L142,41 H18 L4,22 Z"/></clipPath></defs><style>
+.a{animation-timing-function:ease-in-out;animation-iteration-count:infinite}
+.alt{animation-direction:alternate}
+.kb{transform-box:fill-box;transform-origin:50% 45%;animation-name:kb;animation-duration:28s;animation-direction:alternate}
+.cbreathe{transform-box:fill-box;transform-origin:50% 48%;animation-name:cbreathe;animation-duration:20s;animation-direction:alternate}
+.sway{transform-box:fill-box;transform-origin:50% 0%;animation-name:sway;animation-duration:7.6s;animation-direction:alternate}
+.candle{transform-box:fill-box;transform-origin:center;animation-name:candle;animation-duration:3.6s;animation-direction:alternate}
+.glint{transform-box:fill-box;transform-origin:center;animation-name:glint;animation-duration:4.4s;animation-direction:alternate}
+.spin-cw{transform-box:fill-box;transform-origin:center;animation-name:spin-cw;animation-duration:64s;animation-timing-function:linear}
+.spin-ccw{transform-box:fill-box;transform-origin:center;animation-name:spin-ccw;animation-duration:68s;animation-timing-function:linear}
+.flow{animation-name:flow;animation-duration:5.5s;animation-timing-function:linear}
+.zwave{transform-box:fill-box;transform-origin:center;animation-name:zwave;animation-duration:5.2s;animation-direction:alternate}
+.mote{transform-box:fill-box;transform-origin:center;animation-name:mote;animation-duration:8.5s;animation-timing-function:ease-in-out}
+.shimmer{animation-name:shimmer;animation-duration:7.5s;animation-timing-function:ease-in-out}
+.btn-sheen{animation-name:btn-sheen;animation-duration:5.8s;animation-timing-function:ease-in-out}
+.cglow{animation-name:cglow;animation-duration:5s;animation-direction:alternate}
+.pulse-dot{animation-name:pulse-dot;animation-duration:2.2s;animation-direction:alternate}
+.pulse-ring{transform-box:fill-box;transform-origin:center;animation-name:pulse-ring;animation-duration:2.2s;animation-timing-function:ease-out}
+.bead{animation-name:bead;animation-duration:4.2s;animation-timing-function:ease-in-out}
+@keyframes kb{0%{transform:scale(1) translateY(0px)}100%{transform:scale(1.065) translateY(-6px)}}
+@keyframes cbreathe{0%{transform:scale(1)}100%{transform:scale(1.055)}}
+@keyframes sway{0%{transform:rotate(-2.4deg)}100%{transform:rotate(2.4deg)}}
+@keyframes candle{0%{opacity:.52;transform:scale(.92)}50%{opacity:.95;transform:scale(1.07)}100%{opacity:.68;transform:scale(.97)}}
+@keyframes glint{0%{opacity:.22;transform:scale(.55) rotate(0deg)}55%{opacity:1;transform:scale(1.12) rotate(22deg)}100%{opacity:.3;transform:scale(.68) rotate(45deg)}}
+@keyframes spin-cw{from{transform:rotate(0deg)}to{transform:rotate(360deg)}}
+@keyframes spin-ccw{from{transform:rotate(360deg)}to{transform:rotate(0deg)}}
+@keyframes flow{to{stroke-dashoffset:-48}}
+@keyframes zwave{0%{opacity:.62;transform:scale(.95)}100%{opacity:1;transform:scale(1.05)}}
+@keyframes mote{0%{opacity:0;transform:translateY(14px) scale(.6)}25%{opacity:.85}75%{opacity:.7}100%{opacity:0;transform:translateY(-22px) scale(1.05)}}
+@keyframes shimmer{0%,58%{transform:translateX(-420px)}86%,100%{transform:translateX(460px)}}
+@keyframes btn-sheen{0%,62%{transform:translateX(-180px)}92%,100%{transform:translateX(210px)}}
+@keyframes cglow{0%{opacity:.86}100%{opacity:1}}
+@keyframes pulse-dot{0%{opacity:1}100%{opacity:.45}}
+@keyframes pulse-ring{0%{opacity:.85;transform:scale(.9)}100%{opacity:0;transform:scale(2.5)}}
+@keyframes bead{0%{opacity:0;transform:translateX(0px)}15%{opacity:1}85%{opacity:1}100%{opacity:0;transform:translateX(var(--dx,120px))}}
+@media (prefers-reduced-motion: reduce){.a{animation:none!important}}
+</style><path d="M18,3 H142 L156,22 L142,41 H18 L4,22 Z" fill="url(#bg-dark)" stroke="url(#gd-dark)" stroke-width="1.8" stroke-linejoin="round"/><path d="M21,7 H139 L151,22 L139,37 H21 L9,22 Z" fill="none" stroke="#FAF0C4" stroke-width="0.7" opacity=".5"/><g clip-path="url(#bclip)"><rect class="btn-sheen a" style="animation-delay:-1.8s" x="0" y="-6" width="52" height="56" transform="skewX(-22)" fill="url(#bsheen)"/></g><polygon points="26.0,14.5 27.7,18.0 31.3,16.7 30.0,20.3 33.5,22.0 30.0,23.7 31.3,27.3 27.7,26.0 26.0,29.5 24.3,26.0 20.7,27.3 22.0,23.7 18.5,22.0 22.0,20.3 20.7,16.7 24.3,18.0" fill="#FAF0C4" stroke="#7E2B19" stroke-width="0.6" stroke-linejoin="round"/><polygon points="134.0,17.5 135.0,19.6 137.2,18.8 136.4,21.0 138.5,22.0 136.4,23.0 137.2,25.2 135.0,24.4 134.0,26.5 133.0,24.4 130.8,25.2 131.6,23.0 129.5,22.0 131.6,21.0 130.8,18.8 133.0,19.6" fill="#FAF0C4" opacity="0.8"/><text x="82" y="27.2" text-anchor="middle" font-family="Georgia,'Iowan Old Style','Palatino Linotype','DejaVu Serif',serif" font-size="15" font-weight="700" letter-spacing="0.9" fill="#FFF7E3">LinkedIn</text></svg>

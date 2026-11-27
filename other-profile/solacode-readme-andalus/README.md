@@ -3,26 +3,26 @@
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
 <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg">
-<img alt="Solayman El Mouden, Software Engineer. Two pale dragons among flowers inside a horseshoe arch." src="assets/hero-light.svg" width="100%">
+<img alt="Solayman El Mouden, Software Engineer. Andalusian horseshoe arch with Cordoban voussoirs and Arabic calligraphy." src="assets/hero-light.svg" width="100%">
 </picture>
 
 <a href="https://github.com/solacode-SC">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="assets/btn-github-dark.svg">
 <source media="(prefers-color-scheme: light)" srcset="assets/btn-github-light.svg">
-<img alt="GitHub profile" src="assets/btn-github-light.svg" width="150">
+<img alt="GitHub profile" src="assets/btn-github-light.svg" width="160">
 </picture>
 </a>&nbsp;<a href="https://www.linkedin.com/in/solayman-elmouden/">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="assets/btn-linkedin-dark.svg">
 <source media="(prefers-color-scheme: light)" srcset="assets/btn-linkedin-light.svg">
-<img alt="LinkedIn profile" src="assets/btn-linkedin-light.svg" width="150">
+<img alt="LinkedIn profile" src="assets/btn-linkedin-light.svg" width="160">
 </picture>
 </a>&nbsp;<a href="https://solaymanbuilds.com">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="assets/btn-portfolio-dark.svg">
 <source media="(prefers-color-scheme: light)" srcset="assets/btn-portfolio-light.svg">
-<img alt="Portfolio website" src="assets/btn-portfolio-light.svg" width="150">
+<img alt="Portfolio website" src="assets/btn-portfolio-light.svg" width="160">
 </picture>
 </a>
 
@@ -91,7 +91,7 @@
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="assets/footer-dark.svg">
 <source media="(prefers-color-scheme: light)" srcset="assets/footer-light.svg">
-<img alt="Build  ·  Explore  ·  Understand. Software Engineering · Systems · AI · Mathematics" src="assets/footer-light.svg" width="100%">
+<img alt="Build  ·  Explore  ·  Understand. Software Engineering  ·  Systems  ·  AI  ·  Mathematics" src="assets/footer-light.svg" width="100%">
 </picture>
 
 <sub><a href="https://solaymanbuilds.com">solaymanbuilds.com</a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/solayman-elmouden/">LinkedIn</a> &nbsp;·&nbsp; <a href="https://github.com/solacode-SC">GitHub</a></sub>
