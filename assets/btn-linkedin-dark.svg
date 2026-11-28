@@ -1,16 +1,37 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="150" height="40" viewBox="0 0 150 40" role="img" aria-label="Linkedin"><title>Linkedin</title><style>.a{transform-box:fill-box;transform-origin:center}
-.sway{animation:sway 9s ease-in-out infinite alternate}
-@keyframes sway{from{transform:rotate(-3deg)}to{transform:rotate(3deg)}}
-.swim{animation:swim 15s ease-in-out infinite alternate}
-@keyframes swim{from{transform:translate(0,0)}to{transform:translate(40px,-5px)}}
-.rip{opacity:.3;animation:rip 8s ease-out infinite}
-@keyframes rip{0%{transform:scale(.2);opacity:.7}100%{transform:scale(1.5);opacity:0}}
-.kb{animation:kb 24s ease-in-out infinite alternate}
-@keyframes kb{from{transform:scale(1)}to{transform:scale(1.07)}}
-.dash{animation:dash 7s linear infinite}
-@keyframes dash{to{stroke-dashoffset:-60}}
-.shim{animation:shim 9s ease-in-out infinite}
-@keyframes shim{0%,55%{transform:translateX(-120px)}100%{transform:translateX(420px)}}
-.pulse{animation:pl 2.6s ease-in-out infinite}
-@keyframes pl{0%,100%{opacity:1}50%{opacity:.3}}
-@media (prefers-reduced-motion: reduce){.sway,.swim,.rip,.kb,.dash,.shim,.pulse{animation:none}}</style><defs><radialGradient id="lg" cx=".4" cy=".38" r=".8"><stop offset="0" stop-color="#2fa3a8"/><stop offset=".55" stop-color="#155f73"/><stop offset="1" stop-color="#0c3f55"/></radialGradient><linearGradient id="cbg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0d2a34"/><stop offset="1" stop-color="#103440"/></linearGradient><linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#041014" stop-opacity=".12"/><stop offset="1" stop-color="#041014" stop-opacity=".55"/></linearGradient><linearGradient id="pt" x1="0" y1="1" x2="0" y2="0"><stop offset="0" stop-color="#efdcb8"/><stop offset=".6" stop-color="#efdcb8"/><stop offset="1" stop-color="#69cbc6"/></linearGradient><linearGradient id="shg" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#e2bb63" stop-opacity="0"/><stop offset=".5" stop-color="#e2bb63" stop-opacity=".38"/><stop offset="1" stop-color="#e2bb63" stop-opacity="0"/></linearGradient><filter id="noise" x="0" y="0" width="100%" height="100%"><feTurbulence type="fractalNoise" baseFrequency=".9" numOctaves="2" seed="3"/><feColorMatrix values="0 0 0 0 .5  0 0 0 0 .4  0 0 0 0 .3  0 0 0 .55 -.18"/></filter></defs><rect x="1" y="1" width="148" height="38" rx="19" fill="#0d2a34" stroke="#e2bb63" stroke-width="1.4"/><g transform="translate(22,20) scale(1)"><g class="a sway" style="animation-delay:0s"><path d="M10.2,0 L10,1.3 L9.7,2.6 L9.3,3.9 L8.7,5 L7.8,6 L6.7,6.7 L5.6,7.3 L4.6,8 L3.7,8.9 L2.6,9.7 L1.3,10.2 L0,10.4 L-1.3,10.2 L-2.6,9.8 L-3.9,9.5 L-5.2,9 L-6.4,8.4 L-7.4,7.4 L-8,6.2 L-8.4,4.8 L-8.6,3.6 L-9,2.4 L-9.4,1.2 L-9.8,0 L-9.9,-1.3 L-9.6,-2.6 L-9.1,-3.8 L-8.6,-5 L-8.1,-6.2 L-7.4,-7.4 L-6.6,-8.5 L-5.4,-9.3 L-4,-9.6 L-2.6,-9.6 L-1.3,-9.6 L-0,-9.6 L1.3,-9.6 L2.5,-9.5 L3.7,-9 L4.8,-8.3 L5.8,-7.5 L6.7,-6.7 L7.8,-6 L9,-5.2 L9.9,-4.1 L10.3,-2.8 L10.4,-1.4Z" fill="url(#lg)" stroke="#e2bb63" stroke-width="1" stroke-opacity=".8"/><path d="M0,0Q5,0.4 9.4,-0.3 M0,0Q3,4 6.5,6.7 M0,0Q-0.4,5 0.4,9.4 M0,0Q-3.9,3.1 -6.7,6.6 M0,0Q-5,-0.5 -9.4,0.1 M0,0Q-3.3,-3.8 -6.9,-6.3 M0,0Q0.6,-5 0,-9.4 M0,0Q3.8,-3.3 6.3,-6.9" fill="none" stroke="#e2bb63" stroke-width=".8" stroke-opacity=".85" stroke-linecap="round"/><circle r="5.5" fill="none" stroke="#e2bb63" stroke-width=".6" stroke-dasharray="1 4" opacity=".5"/><circle r="1.5" fill="#e2bb63"/></g></g><text x="42" y="25" font-family="'JetBrains Mono','SF Mono',SFMono-Regular,Consolas,Menlo,monospace" font-size="11.5" font-weight="700" letter-spacing="1.8" fill="#e8f2ef">LINKEDIN</text><rect class="grain" width="150" height="40" fill="#000" opacity=".45" filter="url(#noise)"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="160" height="44" viewBox="0 0 160 44" role="img" aria-label="LinkedIn"><title>LinkedIn</title><desc>Andalusian cartouche button linking to LinkedIn</desc><defs><linearGradient id="bg-dark" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#A8422B"/><stop offset="1" stop-color="#7E2B19"/></linearGradient><linearGradient id="gd-dark" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FAF0C4"/><stop offset="0.5" stop-color="#D8AE52"/><stop offset="1" stop-color="#8F671F"/></linearGradient><linearGradient id="bsheen" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#FFF5D6" stop-opacity="0"/><stop offset="0.5" stop-color="#FFF5D6" stop-opacity=".35"/><stop offset="1" stop-color="#FFF5D6" stop-opacity="0"/></linearGradient><clipPath id="bclip"><path d="M18,3 H142 L156,22 L142,41 H18 L4,22 Z"/></clipPath></defs><style>
+.a{animation-timing-function:ease-in-out;animation-iteration-count:infinite}
+.alt{animation-direction:alternate}
+.kb{transform-box:fill-box;transform-origin:50% 45%;animation-name:kb;animation-duration:28s;animation-direction:alternate}
+.cbreathe{transform-box:fill-box;transform-origin:50% 48%;animation-name:cbreathe;animation-duration:20s;animation-direction:alternate}
+.sway{transform-box:fill-box;transform-origin:50% 0%;animation-name:sway;animation-duration:7.6s;animation-direction:alternate}
+.candle{transform-box:fill-box;transform-origin:center;animation-name:candle;animation-duration:3.6s;animation-direction:alternate}
+.glint{transform-box:fill-box;transform-origin:center;animation-name:glint;animation-duration:4.4s;animation-direction:alternate}
+.spin-cw{transform-box:fill-box;transform-origin:center;animation-name:spin-cw;animation-duration:64s;animation-timing-function:linear}
+.spin-ccw{transform-box:fill-box;transform-origin:center;animation-name:spin-ccw;animation-duration:68s;animation-timing-function:linear}
+.flow{animation-name:flow;animation-duration:5.5s;animation-timing-function:linear}
+.zwave{transform-box:fill-box;transform-origin:center;animation-name:zwave;animation-duration:5.2s;animation-direction:alternate}
+.mote{transform-box:fill-box;transform-origin:center;animation-name:mote;animation-duration:8.5s;animation-timing-function:ease-in-out}
+.shimmer{animation-name:shimmer;animation-duration:7.5s;animation-timing-function:ease-in-out}
+.btn-sheen{animation-name:btn-sheen;animation-duration:5.8s;animation-timing-function:ease-in-out}
+.cglow{animation-name:cglow;animation-duration:5s;animation-direction:alternate}
+.pulse-dot{animation-name:pulse-dot;animation-duration:2.2s;animation-direction:alternate}
+.pulse-ring{transform-box:fill-box;transform-origin:center;animation-name:pulse-ring;animation-duration:2.2s;animation-timing-function:ease-out}
+.bead{animation-name:bead;animation-duration:4.2s;animation-timing-function:ease-in-out}
+@keyframes kb{0%{transform:scale(1) translateY(0px)}100%{transform:scale(1.065) translateY(-6px)}}
+@keyframes cbreathe{0%{transform:scale(1)}100%{transform:scale(1.055)}}
+@keyframes sway{0%{transform:rotate(-2.4deg)}100%{transform:rotate(2.4deg)}}
+@keyframes candle{0%{opacity:.52;transform:scale(.92)}50%{opacity:.95;transform:scale(1.07)}100%{opacity:.68;transform:scale(.97)}}
+@keyframes glint{0%{opacity:.22;transform:scale(.55) rotate(0deg)}55%{opacity:1;transform:scale(1.12) rotate(22deg)}100%{opacity:.3;transform:scale(.68) rotate(45deg)}}
+@keyframes spin-cw{from{transform:rotate(0deg)}to{transform:rotate(360deg)}}
+@keyframes spin-ccw{from{transform:rotate(360deg)}to{transform:rotate(0deg)}}
+@keyframes flow{to{stroke-dashoffset:-48}}
+@keyframes zwave{0%{opacity:.62;transform:scale(.95)}100%{opacity:1;transform:scale(1.05)}}
+@keyframes mote{0%{opacity:0;transform:translateY(14px) scale(.6)}25%{opacity:.85}75%{opacity:.7}100%{opacity:0;transform:translateY(-22px) scale(1.05)}}
+@keyframes shimmer{0%,58%{transform:translateX(-420px)}86%,100%{transform:translateX(460px)}}
+@keyframes btn-sheen{0%,62%{transform:translateX(-180px)}92%,100%{transform:translateX(210px)}}
+@keyframes cglow{0%{opacity:.86}100%{opacity:1}}
+@keyframes pulse-dot{0%{opacity:1}100%{opacity:.45}}
+@keyframes pulse-ring{0%{opacity:.85;transform:scale(.9)}100%{opacity:0;transform:scale(2.5)}}
+@keyframes bead{0%{opacity:0;transform:translateX(0px)}15%{opacity:1}85%{opacity:1}100%{opacity:0;transform:translateX(var(--dx,120px))}}
+@media (prefers-reduced-motion: reduce){.a{animation:none!important}}
+</style><path d="M18,3 H142 L156,22 L142,41 H18 L4,22 Z" fill="url(#bg-dark)" stroke="url(#gd-dark)" stroke-width="1.8" stroke-linejoin="round"/><path d="M21,7 H139 L151,22 L139,37 H21 L9,22 Z" fill="none" stroke="#FAF0C4" stroke-width="0.7" opacity=".5"/><g clip-path="url(#bclip)"><rect class="btn-sheen a" style="animation-delay:-1.8s" x="0" y="-6" width="52" height="56" transform="skewX(-22)" fill="url(#bsheen)"/></g><polygon points="26.0,14.5 27.7,18.0 31.3,16.7 30.0,20.3 33.5,22.0 30.0,23.7 31.3,27.3 27.7,26.0 26.0,29.5 24.3,26.0 20.7,27.3 22.0,23.7 18.5,22.0 22.0,20.3 20.7,16.7 24.3,18.0" fill="#FAF0C4" stroke="#7E2B19" stroke-width="0.6" stroke-linejoin="round"/><polygon points="134.0,17.5 135.0,19.6 137.2,18.8 136.4,21.0 138.5,22.0 136.4,23.0 137.2,25.2 135.0,24.4 134.0,26.5 133.0,24.4 130.8,25.2 131.6,23.0 129.5,22.0 131.6,21.0 130.8,18.8 133.0,19.6" fill="#FAF0C4" opacity="0.8"/><text x="82" y="27.2" text-anchor="middle" font-family="Georgia,'Iowan Old Style','Palatino Linotype','DejaVu Serif',serif" font-size="15" font-weight="700" letter-spacing="0.9" fill="#FFF7E3">LinkedIn</text></svg>
